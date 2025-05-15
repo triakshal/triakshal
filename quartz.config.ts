@@ -34,26 +34,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#e3e8e5",
-          lightgray: "#25d0b4",
-          gray: "#089b83",
-          darkgray: "#18201e",
-          dark: "#0eaa4f",
-          secondary: "#089b83",
-          tertiary: "#25d0b4",
-          highlight: "#55ec94",
-          textHighlight: "#88f2e0",
+light: "#f5f9f5",       // Soft green-tinged white (background)
+    lightgray: "#c8d5c8",   // Muted sage (borders)
+    gray: "#7a997a",        // Medium green (graph links, borders)
+    darkgray: "#2a3a2a",    // Dark forest (body text)
+    dark: "#1a3a1a",        // Deep green (headers, icons)
+    secondary: "#4a724a",   // Forest links / active nodes
+    tertiary: "#5a855a",    // Hover states, visited nodes
+    highlight: "#e0efe0",   // Pale green (highlights, code)
+    textHighlight: "#d4e6d4", // Lighter highlight (markdown)
         },
         darkMode: {
-          light: "4, 4, 3",
-          lightgray: "#68736d",
-          gray: "#8a9990",
-          darkgray: "#e3e8e5",
-          dark: "#cbe25a",
-          secondary: "#b3d6b3",
-          tertiary: "#15c15d",
-          highlight: "0fbda0",
-          textHighlight: "#c7d1cb",
+    light: "#141414",       // Rich dark grey (background)
+    lightgray: "#2d382d",   // Dark grey-green (borders)
+    gray: "#455445",        // Medium grey-green (graph links)
+    darkgray: "#e8f0e8",    // Soft white (body text - brighter for #141414)
+    dark: "#b0d0b0",        // Light sage (headers/icons - brighter for contrast)
+    secondary: "#689a68",   // Vibrant forest (links/active nodes)
+    tertiary: "#78aa78",    // Hover states (slightly brighter)
+    highlight: "#1e241e",   // Dark grey-green (highlights)
+    textHighlight: "#242e24", // Markdown highlight
         },
       },
     },
