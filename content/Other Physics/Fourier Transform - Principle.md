@@ -12,4 +12,5 @@ $$\frac{1}{t_2 - t_1} \int_{t_1}^{t_2} g(t) e^{-2 \pi i f t} \, dt $$
 
 Rather than calculate the average over time with the term outside the integral, we can instead scale up the Fourier transform(within the integral) by an amount of time. 
 
+
 #physics #math 
