@@ -1,4 +1,4 @@
-Consider* playing multiple frequencies at the same time; the different waves don't match exactly(obviously), so the resultant graph of of the combined waves has a seemingly complex pattern: in some areas the amplitudes of the waves combine constructively (negative or positive), sometimes destructively.
+Consider playing multiple frequencies at the same time; the different waves don't match exactly(obviously), so the resultant graph of of the combined waves has a seemingly complex pattern: in some areas the amplitudes of the waves combine constructively (negative or positive), sometimes destructively.
 
 The general strategy is to treat signals with a certain frequency different from other signals. 
 
