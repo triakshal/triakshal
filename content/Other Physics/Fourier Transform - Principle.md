@@ -6,7 +6,10 @@ The general strategy is to treat signals with a certain frequency different from
 
 One example of where this may be useful is sound processing; taking the Fourier transform of an audio helps dissect its components, and this can be useful in processes including noise isolation and amplification of certain elements. 
 
+
 $$\frac{1}{t_2 - t_1} \int_{t_1}^{t_2} g(t) e^{-2 \pi i f t} \, dt $$
+
+
 Rather than calculate the average over time with the term outside the integral, we can instead scale up the Fourier transform(within the integral) by an amount of time. 
 
 #physics #math 
