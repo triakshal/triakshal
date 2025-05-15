@@ -23,9 +23,13 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        title: "Noto Serif Display SemiBold 600",
-        header: "Noto Serif Regular 400",
-        body: "Noto Sans Regular 400",
+        title: {
+          name: "Noto Serif Display SemiBold",},
+          //weights: [600], },
+        header: {
+          name: "Noto Serif",
+          weights: [400, 700], },
+        body: "Noto Sans",
         code: "JetBrains Mono",
       },
       colors: {
