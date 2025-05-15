@@ -26,7 +26,7 @@ const config: QuartzConfig = {
         title: "Noto Serif Display SemiBold 600",
         header: "Noto Serif Regular 400",
         body: "Noto Sans Regular 400",
-        code: "IBM Plex Mono",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
