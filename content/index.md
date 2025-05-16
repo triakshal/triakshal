@@ -9,3 +9,8 @@ I'm currently studying for an electrical engineering degree, and I'm also taking
 I also enjoy casually taking photos on my phone, and I have a collection of scenery photos uploaded on an older site. I'll see if I can include them on this one to consolidate everything. 
 
 ![[20240224-IMG_3653(1).jpeg|700]] 
+
+
+
+The primary tags for this site are tagged here to simplify navigation, and I'll update them as I add more.
+#math #physics #projects
