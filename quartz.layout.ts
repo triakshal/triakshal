@@ -39,8 +39,9 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
-    Component.DesktopOnly(Component.RecentNotes()),
-  ],
+    Component.DesktopOnly(Component.RecentNotes({
+       showTags: false, 
+      })),  ],
   right: [
     //Component.Graph(),   
     Component.Graph({
@@ -73,9 +74,7 @@ export const defaultContentPageLayout: PageLayout = {
     enableRadial: true, // whether to constrain the graph, similar to Obsidian
   },
 }),
-    Component.DesktopOnly(Component.RecentNotes({
-       showTags: false, 
-      })),
+
     Component.Backlinks(),
   ],
 }
