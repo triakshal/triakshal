@@ -39,9 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
-    Component.DesktopOnly(Component.RecentNotes({
-       showTags: false, 
-      })),  ],
+   ],
   right: [
     //Component.Graph(),   
     Component.Graph({
@@ -76,7 +74,11 @@ export const defaultContentPageLayout: PageLayout = {
 }),
 
     Component.Backlinks(),
+        Component.DesktopOnly(Component.RecentNotes({
+       showTags: false, 
+      })),
   ],
+  
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
@@ -95,9 +97,11 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
-    Component.DesktopOnly(Component.RecentNotes({ 
-      showTags: false,
-     })),
+    
   ],
-  right: [],
+  right: [
+    Component.DesktopOnly(Component.RecentNotes({
+       showTags: false, 
+      })),
+    ],
 }
