@@ -39,6 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
+    Component.DesktopOnly(Component.RecentNotes()),
   ],
   right: [
     //Component.Graph(),   
@@ -72,7 +73,7 @@ export const defaultContentPageLayout: PageLayout = {
     enableRadial: true, // whether to constrain the graph, similar to Obsidian
   },
 }),
-    Component.DesktopOnly(Component.TableOfContents()),
+    Component.DesktopOnly(Component.RecentNotes({ showTags: false })),
     Component.Backlinks(),
   ],
 }
@@ -93,6 +94,7 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
+    Component.DesktopOnly(Component.RecentNotes({ showTags: false })),
   ],
   right: [],
 }
