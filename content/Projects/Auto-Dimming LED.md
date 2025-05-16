@@ -8,7 +8,6 @@ The end behaviour is such that if the recorded light level is >= 375(on a scale 
 This is a proof of concept; with proper materials, light diffusion, more practical LED colours and sensors, and a structure, everything needed for a programmable night-light is present.  
 
 
-
 [Code]([triakshal/R_G_B_nlamp_test: Simple Arduino photosensitive LED nightlamp.](https://github.com/triakshal/R_G_B_nlamp_test))
 
 #projects #arduino
