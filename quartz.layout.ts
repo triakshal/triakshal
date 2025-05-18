@@ -88,10 +88,10 @@ export const defaultContentPageLayout: PageLayout = {
   },
 }),
 
-    Component.Backlinks(),
-        Component.DesktopOnly(Component.RecentNotes({
-       showTags: false, 
-      })),
+    //Component.Backlinks(),
+        //Component.DesktopOnly(Component.RecentNotes({
+       //showTags: false, 
+      //})),
   ],
   
 }
@@ -115,8 +115,8 @@ export const defaultListPageLayout: PageLayout = {
     
   ],
   right: [
-    Component.DesktopOnly(Component.RecentNotes({
-       showTags: false, 
-      })),
+    //Component.DesktopOnly(Component.RecentNotes({
+       //showTags: false, 
+      //})),
     ],
 }
