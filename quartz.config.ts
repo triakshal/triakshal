@@ -62,7 +62,7 @@ light: "#f5f9f5",       // Soft green-tinged white (background)
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git", "filesystem"],
+        priority: ["git", "filesystem", "frontmatter"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {
