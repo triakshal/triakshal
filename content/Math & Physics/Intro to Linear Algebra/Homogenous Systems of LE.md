@@ -59,3 +59,4 @@ $$
    - The system has infinitely many solutions, including the trivial solution where $t = 0$.
 
 ---
+#linear #math 
