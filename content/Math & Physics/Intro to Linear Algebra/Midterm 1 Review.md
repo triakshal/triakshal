@@ -1,4 +1,3 @@
-# Matrix & Systems Review Summary
 
 ## Solve a system using back-substitution
 Start from the last equation in a triangular system and substitute known values upward to solve.
