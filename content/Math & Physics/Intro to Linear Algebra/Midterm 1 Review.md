@@ -54,7 +54,7 @@ $$
 A^{-1} = \frac{1}{ad - bc} \begin{bmatrix} d & -b \\ -c & a \end{bmatrix}
 $$
 
-Only if \( \det(A) \ne 0 \).
+Only if $\det(A) \ne 0$.
 
 ---
 
@@ -71,13 +71,13 @@ $$
 
 ## Use an inverse matrix to solve a system
 
-Given \( AX = B \):
+Given $AX = B$:
 
 $$
 X = A^{-1}B
 $$
 
-Only valid when \( A \) is invertible.
+Only valid when $A$ is invertible.
 
 ---
 
@@ -105,7 +105,7 @@ Use either:
 ---
 
 ## Find minors and cofactors
-- **Minor** of \( a_{ij} \): determinant of submatrix excluding row \( i \), column \( j \)
+- **Minor** of $a_{ij}$: determinant of submatrix excluding row $i$, column $j$
 - **Cofactor**:
 
 $$
@@ -120,26 +120,26 @@ Set up the determinant expression and solve for the unknown to meet given condit
 ---
 
 ## Identify a matrix as singular or non-singular
-- **Singular**: \( \det(A) = 0 \) → no inverse
-- **Non-singular**: \( \det(A) \ne 0 \) → inverse exists
+- **Singular**: $det(A) = 0$ → no inverse
+- **Non-singular**: $det(A) \ne 0$ → inverse exists
 
 ---
 
 ## Solve a system using Cramer’s Rule
 
-For \( AX = B \):
+For $AX = B$:
 
 $$
 x_i = \frac{\det(A_i)}{\det(A)}
 $$
 
-Where \( A_i \) is \( A \) with its \( i \)-th column replaced by \( B \).
+Where  $A_i$ is $A$ with its $i$-th column replaced by $B$.
 
 ---
 
 ## Use a determinant to find the area of a triangle
 
-For points \( (x_1, y_1), (x_2, y_2), (x_3, y_3) \):
+For points $(x_1, y_1), (x_2, y_2), (x_3, y_3)$:
 
 $$
 \text{Area} = \frac{1}{2} \left| \det \begin{bmatrix} x_1 & y_1 & 1 \\ x_2 & y_2 & 1 \\ x_3 & y_3 & 1 \end{bmatrix} \right|
@@ -154,7 +154,7 @@ Points are **collinear** if the determinant used in the triangle area formula is
 
 ## Matrix addition, subtraction, scalar multiplication
 - **Addition/Subtraction**: element-wise, same dimensions
-- **Scalar multiplication**: each element multiplied by scalar \( k \)
+- **Scalar multiplication**: each element multiplied by scalar $k$
 
 ---
 
