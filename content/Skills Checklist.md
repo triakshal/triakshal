@@ -2,7 +2,6 @@
 draft: "true"
 ---
 
-
 ### Technical Skills
 Basic Physics Knowledge
 - Think and solve problems by asking questions; think beyond the high school mindset.  
