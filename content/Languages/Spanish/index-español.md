@@ -19,5 +19,5 @@ Los temas principales de este sitio están etiquetados aquí para simplificar la
 
 [[index|English]]
 
-#projects #physics #math 
+#projects #physics #math #spanish
 
