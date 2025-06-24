@@ -5,7 +5,6 @@ draft: "false"
 ---
 [[index|English]]
 ## Sobre mí
-¡Hola! Mi nombre es Triaksha.
 
 ¡Hola! Mi nombre es Triaksha.
 
