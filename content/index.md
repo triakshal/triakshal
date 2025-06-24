@@ -14,7 +14,8 @@ I also enjoy casually taking photos on my phone, and I have a collection of scen
 
 
 
-The primary topics for this site are tagged here to simplify navigation, and I'll update them as I add more.  
+The primary topics for this site are tagged here to simplify navigation, and I'll update them as I add more. 
+
 [[index-español|Español]]
 
 #projects #physics #math 

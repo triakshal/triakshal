@@ -16,6 +16,7 @@ También disfruto tomar fotos de manera casual con mi teléfono, y tengo una col
 ![[20240224-IMG_3653(1).jpeg|700]] 
 
 Los temas principales de este sitio están etiquetados aquí para simplificar la navegación, y los actualizaré a medida que añada más. 
+
 [[index|English]]
 
 #projects #physics #math 
