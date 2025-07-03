@@ -46,4 +46,10 @@ Outreach
 - Connect with key individuals.  
 - Ask for advice.
 
+
+
+6/28/2025
+The main things I should look into right now to prepare for the next round of internships are projects I can work on in these remaining two months of summer break, and into the school year if need be. Some of the involved softwares include, MATLAB, Arduino, a SPICE client, KiCAD, AutoCAD, LaTEX, Python/C(With jupyter and clion). 
+
+It's not an exhaustive list, and I'll add more as I go on. 
 #skills #physics #coding #matlab #c #python

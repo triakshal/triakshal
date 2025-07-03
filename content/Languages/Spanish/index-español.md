@@ -12,7 +12,7 @@ Actualmente estoy estudiando la carrera de ingeniería eléctrica y también est
 
 También disfruto tomar fotos de manera casual con mi teléfono, y tengo una colección de fotos de paisajes subida a un sitio web antiguo. Veré si puedo incluirlas en este para consolidarlo todo.
 
-![[20240224-IMG_3653(1).jpeg|700]] 
+![[20240224-IMG_3653(1).jpeg|600]] 
 
 Los temas principales de este sitio están etiquetados aquí para simplificar la navegación, y los actualizaré a medida que añada más. 
 
