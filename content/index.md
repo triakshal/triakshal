@@ -12,9 +12,8 @@ I also enjoy casually taking photos on my phone, and I have a collection of scen
 
 ![[20240224-IMG_3653(1).jpeg|600]] 
 
+![[Akshardham-1.jpg|600]]
 
-
-The primary topics for this site are tagged here to simplify navigation, and I'll update them as I add more. 
 
 [[index-español|Español]]
 
