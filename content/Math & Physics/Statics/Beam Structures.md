@@ -49,4 +49,3 @@ cross section using the established sign convention
 	2. If the solution yields a negative scalar, the sense is opposite to that drawn on the FBD
 	
 
-#physics #statics 

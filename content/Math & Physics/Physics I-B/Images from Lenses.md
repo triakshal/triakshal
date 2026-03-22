@@ -42,6 +42,3 @@ $$
 
 ![[Pasted image 20250506123046.png|500]]
 
-
-#physics #light
-

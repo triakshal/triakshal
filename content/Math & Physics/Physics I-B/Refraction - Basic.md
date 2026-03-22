@@ -18,5 +18,3 @@ $$n_1 \sin \theta_1 = n_2 \sin \theta_2$$
 The angle $theta$ is measured relative to the normal of the surface, regardless of the direction in which the  light goes. The ray 'bends' towards the normal in the medium with a higher index of refraction. 
 
 If the angle is too shallow, it gets reflected back into the medium. 
-
-#physics #light

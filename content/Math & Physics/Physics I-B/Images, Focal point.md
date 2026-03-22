@@ -45,4 +45,3 @@ In order to properly apply these, a few mathematical assumptions must be made:
 When the ratio of $d_i/d_o$ is negative, $m$ is positive, and the image is upright. 
 When the ratio of $d_i/d_o$ is positive, $m$ is negative, and the image is inverted. 
 
-#physics #light

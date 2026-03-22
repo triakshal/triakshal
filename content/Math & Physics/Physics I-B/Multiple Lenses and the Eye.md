@@ -12,5 +12,3 @@ Therefore, if two converging lenses next to each other have the same focal lengt
 The quantity $1/f$ of the lens is known as its *power*. The unit of 1/meter is known as Diopter(units of this 'power'), as the focal length is measured in meters. For diverging lenses, the power is a negative value. 
 
 Essentially, power for multiple lenses is simply added together. 
-
-#physics #light 

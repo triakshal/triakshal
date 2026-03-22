@@ -1,6 +1,7 @@
 ---
 tags:
   - engineering
+  - coding
 ---
 
 # Introduction to FPGAs
@@ -38,5 +39,3 @@ FPGAs are composed of several basic elements:
 *   **I/O Blocks:** Contain the circuitry for the input and output pins of the integrated circuit.
 *   **Memory Blocks:** Used to implement large arrays of memory.
 *   **Clock Management Block:** Essential for implementing sequential systems.
-
-#engineering

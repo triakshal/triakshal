@@ -29,4 +29,3 @@ Where ( R_1 ) is for the surface toward the object, and ( R_2 ) the opposite sid
 
 We define ( R ) to be positive if it is convex toward the object, and negative if it is concave toward the object. For a converging lens, ( f ) is positive, and for a diverging lens, ( f ) is negative.
 
-#light #physics 

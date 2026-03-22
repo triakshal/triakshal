@@ -1,3 +1,8 @@
+---
+tags:
+  - linear
+  - math
+---
 
 ### Cross product of vectors
 
@@ -128,5 +133,3 @@ A matrix can be **orthogonally diagonalized** only if it is **symmetric**.
 2. If any eigenspace has a dimension greater than 1, use the **Gram-Schmidt process** on its basis vectors to create an orthogonal basis.
 3. **Normalize** all eigenvectors by dividing each by its magnitude. This creates an orthonormal set of eigenvectors.
 4. Construct the orthogonal matrix **P** using these orthonormal eigenvectors as its columns.
-
-#linear #math

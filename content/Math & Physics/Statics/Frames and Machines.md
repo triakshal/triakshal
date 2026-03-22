@@ -37,5 +37,3 @@ When pulleys and cords are involved, draw the FBDs for:
 
 Trying to solve problems with frames and machines is needlessly complex without simplification from knowing that connected parts always contain equal and opposite forces.
 
-
-#physics #statics 
