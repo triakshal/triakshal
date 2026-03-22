@@ -1,3 +1,9 @@
+---
+tags:
+  - physics
+  - statics
+---
+
 Frames are common types of structures that have at least one multi-force member, where trusses have only two-force members. They’re most often connected by pins at the joints. 
 
 Frames are generally stationary, and are designed to support external loads. They have at least one multi-force member.   

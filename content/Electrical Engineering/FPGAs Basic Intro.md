@@ -1,3 +1,8 @@
+---
+tags:
+  - engineering
+---
+
 # Introduction to FPGAs
 
 ## What is an FPGA?

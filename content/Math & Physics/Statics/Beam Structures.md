@@ -1,3 +1,9 @@
+---
+tags:
+  - physics
+  - statics
+---
+
 Beams are structural members designed to support loads applied perpendicular to their axes. 
 
 ### Method of Sections

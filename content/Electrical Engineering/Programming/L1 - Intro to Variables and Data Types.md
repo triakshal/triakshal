@@ -1,6 +1,6 @@
 ---
 tags:
-  - c
+  - coding
 ---
 
 ![[L1 Intro to Variables, Data Types.pdf]]

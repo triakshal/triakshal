@@ -1,3 +1,9 @@
+---
+tags:
+  - physics
+  - light
+---
+
 In the case of multiple thin lenses, the overall focal length is related to the lenses' individual focal lengths:
 
 $$\frac{1}{f_1} + \frac{1}{f_2} = \frac{1}{f_c}$$

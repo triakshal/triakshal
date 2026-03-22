@@ -1,5 +1,8 @@
-#physics #fluids
-
+---
+tags:
+  - physics
+  - fluids
+---
 Gases and liquids are fluids, which means their atoms aren’t fixed relative to each other. They can’t resist shear forces, and instead flow when forces are applied. Fluids’ resistance to flow is called viscosity. 
 
 When fluids are confined in a container, they exert a pressure on the bounds. Pressure is the total force divided by the surface area. The SI unit of pressure is 1 N/m^2. 

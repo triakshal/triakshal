@@ -1,3 +1,9 @@
+---
+tags:
+  - physics
+  - statics
+---
+
 A truss is a structure composed of slender members joined together at their endpoints. 
 
 For a given truss geometry and load, we want to find the forces and sizes of the truss members. 

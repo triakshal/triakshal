@@ -1,3 +1,9 @@
+---
+tags:
+  - physics
+  - light
+---
+
 The direction of light changes upon changing mediums(e.g. from air to water, or glass).
 
 This is in part due to the speed of light being dependent on the properties of the medium; light is absorbed and reemitted for different amounts of time depending on material properties, and amounts to a significant difference in overall speed per medium. 

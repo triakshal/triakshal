@@ -2,6 +2,8 @@
 title: Resumen
 socialDescription: Sitio Web de Triaksha
 draft: "false"
+tags:
+  - spanish
 ---
 [[index|English]]
 ## Sobre mí

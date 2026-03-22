@@ -1,3 +1,9 @@
+---
+tags:
+  - physics
+  - statics
+---
+
 Beam design requires knowing the variation of the internal shear force $V$ and bending moment $M$ acting at each point along the axis of the beam. 
 
 To do this, method of sections must be used to determine load variation by solving for $V(x)$ and $M(x)$ to plot on Shear and Bending moment diagrams respectively. These equations must be derived for each section of a beam that has a different loading, since they're discontinuous at points where distributed load changes or where concentrated forces or couple moments are applied. 

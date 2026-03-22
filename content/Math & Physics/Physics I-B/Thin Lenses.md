@@ -1,3 +1,9 @@
+---
+tags:
+  - light
+  - physics
+---
+
 The fact that light refracts can be used to create a lens. Glass can be used to make images which can be magnified- either smaller or larger depending on the use case. 
 
 The two classic lens types are converging and diverging lenses. 

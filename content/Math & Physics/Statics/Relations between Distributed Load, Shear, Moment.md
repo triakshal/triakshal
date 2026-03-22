@@ -1,3 +1,9 @@
+---
+tags:
+  - physics
+  - statics
+---
+
 If a beam is subjected to several concentrated forces, couple moments, and distributed loads, then the general method of constructing diagrams may be tedious. 
 Differential relations exist between load, shear, and bending moments that simplify the procedure for constructing shear and bending moment diagrams. 
 

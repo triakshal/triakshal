@@ -1,3 +1,9 @@
+---
+tags:
+  - physics
+  - electricity
+---
+
 The SI units for charge Q is the Coulomb.
 Charge is quantised, meaning the charge of anything is an integer multiple of $e/3$; this is an experimental fact, and there is no well-understood reason for why yet. 
 The charges of the proton and electron are exactly opposite: $$\pm 1.602*10^{19} C$$

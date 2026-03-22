@@ -1,3 +1,9 @@
+---
+tags:
+  - physics
+  - light
+---
+
 Light is a wave made up of oscillating electric and magnetic fields. Unlike mechanical waves, it doesn't need a medium to travel through. Light carries both momentum and energy, and the energy is quantised; it depends on the wavelength of the light. Light experiences the doppler shift and interference. 
 
 	However, interference is only evident when light interacts with objects of comparable size to light's wavelength, and Doppler shift is evident only when speeds are comparable to the speed of light. 

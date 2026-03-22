@@ -1,3 +1,9 @@
+---
+tags:
+  - physics
+  - light
+---
+
 In the case of a reflection, if all rays intersect at a point as if it were a real image, it's called a *virtual image*. In the case where light actually does appear from some point on which rays appear to converge, it's considered a *real image.*  
 
 To define a few things: 

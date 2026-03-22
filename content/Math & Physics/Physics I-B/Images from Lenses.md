@@ -1,3 +1,9 @@
+---
+tags:
+  - physics
+  - light
+---
+
 Just as mirrors can form an image, lenses form images. 
 Similar to mirrors, tracing rays works well to find image locations, but with slightly modified rules. 
 
