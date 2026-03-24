@@ -24,7 +24,6 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/triakshal/triakshal",
       Linkedin: "https://www.linkedin.com/in/triakshal/",
-      //"Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
 }
